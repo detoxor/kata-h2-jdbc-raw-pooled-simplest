@@ -1,5 +1,5 @@
 # Kata pro nejjednodušší integraci H2 databáze
-Nejjednodušší integrace H2 do aplikace s tím, že spojení je poolované via nativni h2 connection pool (URL2) formou ukázky/příkladu a výsledkem je tento odkaz: [URL1](http://www.claudiobernasconi.ch/2010/08/17/h2-embedded-java-db-getting-started/).
+Nejjednodušší integrace H2 do aplikace s tím, že spojení je poolované via nativni h2 connection pool (URL2) formou ukázky/příkladu a výsledkem je tento odkaz: (URL1).
 
 ## Zdroje
 + (URL0) [Connection using JDBC, official](http://h2database.com/html/tutorial.html#connecting_using_jdbc)
